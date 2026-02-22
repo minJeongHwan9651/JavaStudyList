@@ -5,7 +5,7 @@
 - [ ] Chapter 03. 연산자
 - [ ] Chapter 04. 조건문과 반복문
 
-- [ ] Chapter 05. 참조 타입
+- [x] Chapter 05. 참조 타입
 - [ ] Chapter 06. 클래스
 - [ ] Chapter 07. 상속
 - [ ] Chapter 08. 인터페이스
